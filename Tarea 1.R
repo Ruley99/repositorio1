@@ -3,7 +3,7 @@ install.packages("dplyr")
 library(dplyr)
 
 
-#Instalamos todos los paquetes de la colección 
+#Instalamos todos los paquetes de la colecciÃ³n 
 install.packages("tidyverse")
 library(tidyverse)
 
@@ -93,3 +93,6 @@ sd(cafe)
 #Punto 6
 percent = quantile(cafe, probs = seq(0, 1, 0.25))
 percent
+
+
+Nota:96
